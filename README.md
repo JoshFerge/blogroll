@@ -1,5 +1,4 @@
-# blogroll
-useful links etc.
+# useful links etc.
 
 
 http://hintjens.com/
@@ -27,4 +26,5 @@ https://www.reddit.com/r/bodyweightfitness/comments/a09852/a_15_minutes_bodyweig
 
 
 topic of interest: nuclear fusion
-https://www.youtube.com/watch?v=L0KuAx1COEk&feature=youtu.be&t=136
+https://www.youtube.com/watch?v=L0KuAx1COEk&feature=youtu.be
+https://www.youtube.com/watch?v=puoElmXW-PY
